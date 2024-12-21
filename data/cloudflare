@@ -2,8 +2,10 @@ include:cloudflare-cn
 include:cloudflare-ipfs
 
 argotunnel.com
+cfl.re
 cloudflare-dns.com
 cloudflare-ech.com
+cloudflare-esni.com
 cloudflare-gateway.com
 cloudflare-quic.com
 cloudflare.com
@@ -15,6 +17,7 @@ cloudflarebolt.com
 cloudflareclient.com
 cloudflareinsights.com
 cloudflareok.com
+cloudflarepartners.com
 cloudflareportal.com
 cloudflarepreview.com
 cloudflareresolve.com
@@ -25,6 +28,7 @@ cloudflarestream.com
 cloudflaretest.com
 cloudflarewarp.com
 every1dns.net
+isbgpsafeyet.com
 one.one.one
 pacloudflare.com
 pages.dev
